@@ -14,7 +14,7 @@
 6. [AI Capstone Project with Deep Learning]
 
 <p align="center">
-<img src="[https://user-images.githubusercontent.com/39946753/94976642-3e340680-0533-11eb-989d-0b4900d04703.png](https://github.com/gandikota-sg/AI-Engineering-Certificate/blob/main/certificate.png)https://github.com/gandikota-sg/AI-Engineering-Certificate/blob/main/certificate.png" width="70%" height="60%" title="learning scope" >
+<img src="https://github.com/gandikota-sg/AI-Engineering-Certificate/blob/main/certificate.png" width="70%" height="60%" title="learning scope" >
 </p>
 
 
